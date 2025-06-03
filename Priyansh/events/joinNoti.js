@@ -38,7 +38,7 @@ module.exports.run = async function({ api, event }) {
 
 
 
- ✨💞Ɱɣ Ꭾɽɛfɪᵡ ɪs / 
+ ✨💞Ɱɣ Ꭾɽɛfɪᵡ ɪs . 
 
 
 \n\nƬɣƥɛ${global.config.PREFIX}ꞪɛɭᎮ Ƭ❍ søø Ɱɣ Ƈøɱɱɑɳɗ ɭɪsʈ...🤍💫\n
@@ -55,8 +55,8 @@ ${global.config.PREFIX}🌺🍃Ƈɑɭɭɑɗ føɽ Ɑɳɣ ɪʂʂuɛ
 <<<<<------------------------------>>>>>
 A̸N̸D̸ F̸O̸R̸ A̸N̸Y̸ R̸E̸P̸O̸R̸T̸ O̸R̸ C̸O̸N̸T̸A̸C̸T̸ B̸O̸T̸ D̸E̸V̸A̸L̸O̸P̸A̸R̸....💙🍫
 
-💝🥀𝐎𝐖𝐍𝐄𝐑:- ☞𝕾𝖆𝖒𝖊𝖊𝖗 𝕶𝖍𝖆𝖓☜ 💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 ┼🦋⃟⎯꯭̽𝐒𝐀𝐌𝐄𝐄𝐑⎯꯭̽⎯꯭̽°🩷🖤\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞ www.facebook.com/𝐒𝐚𝐦𝐞𝐞𝐫.𝐊𝐇𝐚𝐧.official\n
-👋For Any Kind Of Help Contact On Telegram  Username 👉 @𝐒𝐚𝐦𝐞𝐞𝐫𝐊𝐡𝐚𝐧😇 
+💝🥀𝐎𝐖𝐍𝐄𝐑:- ☞𝕾𝖆𝖒𝖊𝖊𝖗 𝕶𝖍𝖆𝖓☜ 💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 ┼🦋⃟⎯꯭̽𝐒𝐀𝐌𝐄𝐄𝐑⎯꯭̽⎯꯭̽°🩷🖤\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞ www.facebook.com/𝐒𝐚𝐦𝐞𝐞𝐫.𝐊𝐡𝐀𝐚𝐧.official\n
+👋For Any Kind Of Help Contact On Telegram  Username 👉 @𝐒𝐚𝐦𝐞𝐞𝐫𝐊𝐡𝐀𝐚𝐧😇 
 
 
 ✮☸✮
